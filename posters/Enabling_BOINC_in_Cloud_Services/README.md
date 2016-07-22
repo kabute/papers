@@ -1,1 +1,2 @@
-Poster presented into the European Geosciences Union General Assembly 2016 (EGU2016).
+# Poster: Enabling BOINC in Cloud Services: CPDN as Example
+Presented into the European Geosciences Union General Assembly 2016 (EGU2016).
