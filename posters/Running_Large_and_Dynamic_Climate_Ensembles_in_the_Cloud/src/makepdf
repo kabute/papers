@@ -1,0 +1,2 @@
+#!/bin/bash
+./latexdockercmd.sh pdflatex poster-AGU.tex
